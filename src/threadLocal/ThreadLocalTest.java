@@ -1,4 +1,4 @@
-package test;
+package threadLocal;
 
 /**
  * ThreadLocal中的值其实是放在线程对象中的

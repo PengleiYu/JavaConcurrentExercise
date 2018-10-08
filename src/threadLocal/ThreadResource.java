@@ -1,4 +1,4 @@
-package test;
+package threadLocal;
 
 public class ThreadResource {
     private String threadName;
